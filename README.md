@@ -1,6 +1,6 @@
 # OS Process Scheduler Simulator
 ### Project Description
-This project is a simulation of an operating system process scheduler in C, intended to allow one to better understand how an operating system manages process scheduling, memory management, and execution timing. It was developed for an Operating Systems course and focuses on practical application of core OS concepts.
+This project is a simulation of an operating system process scheduler in C for Course CIE 302 Fall 2024, intended to allow one to better understand how an operating system manages process scheduling, memory management, and execution timing. It was developed for an Operating Systems course and focuses on practical application of core OS concepts.
 
 ### Project Objective
 The main goal of this simulator is to demonstrate the functioning of various CPU scheduling algorithms in a controlled, user-space environment. Instead of working at the kernel level, the simulation uses separate programs that utilize inter-process communication (IPC), signals, and shared headers to mimic real OS behavior. It enables students to visualize and analyze how an OS decides which process runs, when, and for how long.
